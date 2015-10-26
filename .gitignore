@@ -1,0 +1,6 @@
+venv
+*.pyc
+app
+django_server
+.idea
+config.py
